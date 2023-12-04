@@ -1,0 +1,20 @@
+div.searchWrapper {
+  text-align: center;
+  margin: 1rem;
+}
+
+.btnWrapper {
+  display: flex;
+  justify-content: center;
+  gap: 10px; /* 调整按钮之间的间距 */
+}
+
+.resultWrapper {
+  text-align: center;
+}
+
+.loadingWrapper {
+  color: red;
+  text-align: center;
+  display: none;
+}
